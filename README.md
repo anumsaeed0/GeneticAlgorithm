@@ -24,7 +24,7 @@ To use the genetic algorithm implementation:
 
 1. Clone the repository:
 
-   ```git clone https://github.com/your-username/genetic-algorithm.git```
+   ```git clone https://github.com/anumsaeed0/genetic-algorithm.git```
    
 2. Run the genetic_algorithm.py script:
 
