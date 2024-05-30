@@ -15,7 +15,7 @@ This implementation provides functionalities for:
 
 ## Files
 
-- `genetic_algorithm.py`: Python script containing the implementation of the genetic algorithm.
+- `genetic_algorithm.ipynb` and `genetic_algorithm.py`: Python script containing the implementation of the genetic algorithm.
 - `README.md`: This file, providing an overview and instructions.
 
 ## Usage
